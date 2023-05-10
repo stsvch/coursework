@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.527,C:\Users\USER\Desktop\курсач2\Size.pas=C:\Users\USER\Desktop\курсач2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,C:\Users\USER\Desktop\Новая папка (3)\Color.pas=C:\Users\USER\Desktop\Новая папка (3)\Сщдщк.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,C:\Users\USER\Desktop\Новая папка (3)\Main.pas=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Main.pas=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,C:\Users\USER\Desktop\Новая папка (3)\Color.dfm=C:\Users\USER\Desktop\Новая папка (3)\Сщдщк.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Paint.dproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.168,C:\Users\USER\Desktop\Новая папка (3)\Сщдщк.dfm=C:\Users\USER\Desktop\Новая папка (3)\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.527,C:\Users\USER\Desktop\курсач2\Size.dfm=C:\Users\USER\Desktop\курсач2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,C:\Users\USER\Desktop\Новая папка (3)\Menu.pas=C:\Users\USER\Desktop\Новая папка (3)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,C:\Users\USER\Desktop\курсач2\About.dfm=C:\Users\USER\Desktop\курсач2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,C:\Users\USER\Desktop\Новая папка (3)\Menu.dfm=C:\Users\USER\Desktop\Новая папка (3)\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,C:\Users\USER\Desktop\Новая папка (3)\Paint.dproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Paint.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.168,C:\Users\USER\Desktop\Новая папка (3)\Сщдщк.pas=C:\Users\USER\Desktop\Новая папка (3)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,=C:\Users\USER\Desktop\курсач2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,=C:\Users\USER\Desktop\курсач2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,C:\Users\USER\Desktop\Новая папка (3)\Main.dfm=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,C:\Users\USER\Desktop\Новая папка (3)\Unit1.dfm=C:\Users\USER\Desktop\Новая папка (3)\Shape.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,=C:\Users\USER\Desktop\Новая папка (3)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,C:\Users\USER\Desktop\Новая папка (3)\Unit1.pas=C:\Users\USER\Desktop\Новая папка (3)\Shape.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.789,C:\Users\USER\Desktop\Новая папка (3)\Unit1.pas=C:\Users\USER\Desktop\Новая папка (3)\Stack.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,C:\Users\USER\Desktop\курсач2\About.pas=C:\Users\USER\Desktop\курсач2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,=C:\Users\USER\Desktop\Новая папка (3)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.063,=C:\Users\USER\Desktop\Новая папка (3)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,=C:\Users\USER\Desktop\Новая папка (3)\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="About.pas"/>
+    <File Path="About.dfm"/>
+    <File Path="Color.pas"/>
+    <File Path="Color.dfm"/>
+    <File Path="Menu.pas"/>
+    <File Path="Menu.dfm"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="Shape.pas"/>
+    <File Path="Shape.dfm"/>
+    <File Path="Size.pas"/>
+    <File Path="Size.dfm"/>
+    <File Path="Stack.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
